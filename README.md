@@ -19,16 +19,12 @@ My current cybersecurity focus is offensive security from an ethical, lab-based 
 
 Areas I’m learning and practicing:
 
-- Reconnaissance and information gathering
-- Enumeration and attack-surface mapping
+- Reconnaissance and enumeration
 - Web application security testing
 - Authentication and access-control testing
 - Vulnerability research fundamentals
-- Exploit development basics
-- Privilege escalation concepts
-- Linux security fundamentals
-- Scripting and automation for security workflows
-- Capture The Flag practice and hands-on labs
+- Linux privilege escalation concepts
+- CTF practice and hands-on labs
 
 ## 🛰️ Android & Privacy
 
